@@ -1,3 +1,3 @@
 # ruby_programs
 # test commit
-# direct sommit from UI
+# direct commit from UI
